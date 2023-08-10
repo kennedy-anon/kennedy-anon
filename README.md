@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kennedy Mugo
 - 👀 I’m interested in Web development, Ml and AI, Mobile App development.
-- 🌱 I’m currently learning Spring Boot.
+- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on MEAN stack and Django REST Framework solutions.
 - 📫 How to reach me, Email: kennedyken1084@gmail.com
 
